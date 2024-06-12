@@ -1,0 +1,3 @@
+.\venv\Scripts\python.exe -m pytest --html=test_reports/report.html --self-contained-html
+
+.\venv\Scripts\python.exe -m pytest --html=test_reports/report.html --self-contained-html --css=assets/readable.css --css=assets/style.css
